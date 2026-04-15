@@ -1,0 +1,6 @@
+﻿<?php
+// TODO Anh Đức: Nhận request URI, phân tích route, gọi Controller/Action tương ứng.
+// Gợi ý: Sử dụng $_SERVER['REQUEST_URI'], parse URL, map tới Controller/Method, autoload class.
+require_once '../config/database.php';
+// ...autoload các Controller/Model...
+// ...route xử lý...
